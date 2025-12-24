@@ -199,10 +199,4 @@ category_product (pivot)
 2. Masukkan kata kunci atau gunakan filter
 3. Lihat detail produk yang ditemukan
 
-## 📄 Lisensi
 
-MIT License
-
-## 👨‍💻 Kontributor
-
-Dibuat sebagai tugas kuliah Semester 5.
